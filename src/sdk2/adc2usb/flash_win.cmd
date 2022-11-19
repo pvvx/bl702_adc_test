@@ -1,0 +1,2 @@
+@PATH=E:\Bouffalo\BL70x\bl_mcu_sdk\tools\bflb_flash_tool;D:\MCU\BouffaloLab_eclipse_x86_64_win\eclipse\cmake\bin;D:\MCU\BouffaloLab_eclipse_x86_64_win\eclipse\riscv64-unknown-elf-gcc-mingw32\bin;%PATH% 
+@E:\Bouffalo\bflb_flash_tool\bflb_mcu_tool.exe --chipname=bl702 --port=COM15 --xtal=32M --firmware=".\build\build_out\project_bl702.bin"
